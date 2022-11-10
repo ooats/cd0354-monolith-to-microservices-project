@@ -1,3 +1,5 @@
+version: 2.1
+
 language: node_js
 node_js:
   - 13
